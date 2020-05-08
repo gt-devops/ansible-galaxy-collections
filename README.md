@@ -1,1 +1,1 @@
-# ansible-galaxy-collections
+# ansible-galaxy-collections v 1.0.0
