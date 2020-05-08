@@ -1,1 +1,3 @@
-# ansible-galaxy-collections v 1.0.0
+# Ansible Collection - setup.web_server
+
+Documentation for the collection.
